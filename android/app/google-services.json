@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "321779242842",
+    "project_id": "carpedia-driver-app",
+    "storage_bucket": "carpedia-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321779242842:android:b830cd80566d166fba0563",
+        "android_client_info": {
+          "package_name": "com.thecarpedia.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321779242842-e22h5drnrhhke6dgou53b0dgf1u1juvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecarpedia.driver.app",
+            "certificate_hash": "c9d92c91854db543b4b85952c2543a2894992ea5"
+          }
+        },
+        {
+          "client_id": "321779242842-ohbs9cns6r1bac1aur01cpka1svuhnn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecarpedia.driver.app",
+            "certificate_hash": "e0bbacf0594500d91eeaffbd8b0f468a94116df7"
+          }
+        },
+        {
+          "client_id": "321779242842-stmlsj6u3ro2vgu4192t6231f2t39im6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMKuftr1RUELBV8kNM1ESxE8mECO6ftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321779242842-stmlsj6u3ro2vgu4192t6231f2t39im6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321779242842-n7mfh79bqm68s51h9adioveoslrpv251.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thecarpedia.driver.app.stg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321779242842:android:13a65b24ae520230ba0563",
+        "android_client_info": {
+          "package_name": "com.thecarpedia.driver.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321779242842-stmlsj6u3ro2vgu4192t6231f2t39im6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMKuftr1RUELBV8kNM1ESxE8mECO6ftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321779242842-stmlsj6u3ro2vgu4192t6231f2t39im6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321779242842-n7mfh79bqm68s51h9adioveoslrpv251.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thecarpedia.driver.app.stg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321779242842:android:a71d0bd834eb6587ba0563",
+        "android_client_info": {
+          "package_name": "com.thecarpedia.driver.app.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321779242842-stmlsj6u3ro2vgu4192t6231f2t39im6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMKuftr1RUELBV8kNM1ESxE8mECO6ftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321779242842-stmlsj6u3ro2vgu4192t6231f2t39im6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321779242842-n7mfh79bqm68s51h9adioveoslrpv251.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thecarpedia.driver.app.stg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321779242842:android:412343a8aad00e3fba0563",
+        "android_client_info": {
+          "package_name": "com.thecarpedia.hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321779242842-stmlsj6u3ro2vgu4192t6231f2t39im6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMKuftr1RUELBV8kNM1ESxE8mECO6ftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321779242842-stmlsj6u3ro2vgu4192t6231f2t39im6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321779242842-n7mfh79bqm68s51h9adioveoslrpv251.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thecarpedia.driver.app.stg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
